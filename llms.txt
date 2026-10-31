@@ -15,9 +15,9 @@
 - Trial attorney
 
 ## Guides
-- [dui lawyer in santa cruz, ca guide](https://local-business-guides.github.io/dui-attorney-rick-gazipura-santa-cruz/dui-lawyer-ca-in-santa-cruz/): dui lawyer in santa cruz, ca: prepare for a case review with a local attorney in Santa Cruz.
-- [DUI Lawyer Santa Cruz, CA for a case review](https://local-business-guides.github.io/dui-attorney-rick-gazipura-santa-cruz/dui-lawyer-santa-cruz-ca/): DUI Lawyer Santa Cruz, CA: get help organizing your next steps with a local Santa Cruz attorney.
 - [Choosing the best dui lawyer, ca Santa Cruz](https://local-business-guides.github.io/dui-attorney-rick-gazipura-santa-cruz/best-dui-lawyer-ca-santa-cruz/): best dui lawyer, ca Santa Cruz: get clear guidance on your options from a DUI attorney in Santa Cruz.
+- [DUI Lawyer Santa Cruz, CA for a case review](https://local-business-guides.github.io/dui-attorney-rick-gazipura-santa-cruz/dui-lawyer-santa-cruz-ca/): DUI Lawyer Santa Cruz, CA: get help organizing your next steps with a local Santa Cruz attorney.
+- [dui lawyer in santa cruz, ca guide](https://local-business-guides.github.io/dui-attorney-rick-gazipura-santa-cruz/dui-lawyer-ca-in-santa-cruz/): dui lawyer in santa cruz, ca: prepare for a case review with a local attorney in Santa Cruz.
 - [Talk with a dui lawyer, ca near me](https://local-business-guides.github.io/dui-attorney-rick-gazipura-santa-cruz/dui-lawyer-ca-near-me/): dui lawyer, ca near me: discuss your case and possible next steps with a Santa Cruz DUI attorney.
 - [Choosing a local dui lawyer, ca Santa Cruz](https://local-business-guides.github.io/dui-attorney-rick-gazipura-santa-cruz/local-dui-lawyer-ca-santa-cruz/): local dui lawyer, ca Santa Cruz: get clear next steps and help preparing for your DUI case in Santa Cruz.
 - [Finding an affordable dui lawyer, ca Santa Cruz](https://local-business-guides.github.io/dui-attorney-rick-gazipura-santa-cruz/affordable-dui-lawyer-ca-santa-cruz/): affordable dui lawyer, ca Santa Cruz: understand what to ask and plan your next steps in Santa Cruz.
@@ -27,6 +27,7 @@
 - [Working With a DUI Defense Attorney Santa Cruz](https://local-business-guides.github.io/dui-attorney-rick-gazipura-santa-cruz/dui-defense-attorney-santa-cruz/): DUI Defense Attorney Santa Cruz: discuss your defense questions and next steps in Santa Cruz, California.
 
 ## Newsroom
+- [Rick Gazipura Publishes Guide to Finding the Best DUI Lawyer in Santa Cruz](https://local-business-guides.github.io/dui-attorney-rick-gazipura-santa-cruz/news/2026-10-31-rick-gazipura-publishes-guide-to-finding-the-best/): Rick Gazipura released a guide on choosing a DUI lawyer in Santa Cruz, with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-31)
 - [Rick Gazipura Shares Guide to DUI Lawyer Options in Santa Cruz](https://local-business-guides.github.io/dui-attorney-rick-gazipura-santa-cruz/news/2026-10-29-rick-gazipura-shares-guide-to-dui-lawyer-options/): A new guide and related audio and video explain how case details may shape options after a DUI arrest in Santa Cruz. (2026-10-29)
 
 ## Pages
@@ -37,3 +38,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/dui-attorney-rick-gazipura-santa-cruz/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/dui-attorney-rick-gazipura-santa-cruz/news/rss.xml)
+- [Main resource site](https://rick-gazipura-santa-cruz-legal.warmape5.chatgpt.site)
